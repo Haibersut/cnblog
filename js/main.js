@@ -50,8 +50,8 @@
 					]
 				},
 				topInfo: {
-					title: 'Hi,Toretto',
-					text: 'You got to put the past behind you before you can move on.',
+					title: 'Haibersut',
+					text: 'Exitus Acta Probat.',
 					github: "",
 					weibo: "",
 					telegram: "",
