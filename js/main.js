@@ -5,7 +5,7 @@
 			silence.init(options);
 		}
 	});
-
+	
 	class Silence {
 		constructor() {
 			this.defaluts = {
@@ -937,9 +937,9 @@
 			$('.post-list-thumb:odd').addClass('post-list-thumb-left')
 
 			//构建notice
-			const config = this.defaluts.profile;
-			let notice = `<div class="notice"> <i class="iconfont icon-notification"></i><div class="notice-content">${config.notice}</div></div>`
-			$('#main').prepend(notice);
+			//const config = this.defaluts.profile;
+			//let notice = `<div class="notice"> <i class="iconfont icon-notification"></i><div class="notice-content">${config.notice}</div></div>`
+			//$('#main').prepend(notice);
 		}
 
 		//=================阅读页逻辑
